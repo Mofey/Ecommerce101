@@ -1,4 +1,4 @@
-import Head from 'next/head'
+ import Head from 'next/head'
 import Link from 'next/link'
 import {useState, useContext, useEffect} from 'react'
 import {DataContext} from '../store/GlobalState'
